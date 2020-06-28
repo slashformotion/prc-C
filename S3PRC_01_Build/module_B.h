@@ -1,0 +1,1 @@
+void doSomething(Tag tag, int depth);
